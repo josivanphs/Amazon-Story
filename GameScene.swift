@@ -83,6 +83,7 @@ var balloon: SKBalloonNode?
             balloon?.setScale(0.6)
             self.camera?.addChild(self.balloon!)
     
+            let josivanLindo = SKSpriteNode()
             
             
        // MARK: - Buttons
